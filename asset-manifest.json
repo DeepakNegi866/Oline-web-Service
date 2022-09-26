@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Online-web-Service/static/css/main.cae203fe.css",
+    "main.js": "/Online-web-Service/static/js/main.a2cd391d.js",
+    "static/media/marketing.jpeg": "/Online-web-Service/static/media/marketing.470a9c2f877a8048993a.jpeg",
+    "static/media/digital.webp": "/Online-web-Service/static/media/digital.5a0954cea8923bf4f8df.webp",
+    "static/media/businessGrowing.jpg": "/Online-web-Service/static/media/businessGrowing.a74c26c2f983f84adf9c.jpg",
+    "static/media/web.jpg": "/Online-web-Service/static/media/web.cbee62aa89edcfdf25c3.jpg",
+    "static/media/app.jpeg": "/Online-web-Service/static/media/app.ebd847bdce573edbfe09.jpeg",
+    "static/media/Anroid.jpg": "/Online-web-Service/static/media/Anroid.2ae3b761536d71e2993d.jpg",
+    "static/media/projectpic.jpg": "/Online-web-Service/static/media/projectpic.71e7d2487987f02bb285.jpg",
+    "static/media/software.webp": "/Online-web-Service/static/media/software.f198b9211725038de9e6.webp",
+    "index.html": "/Online-web-Service/index.html",
+    "main.cae203fe.css.map": "/Online-web-Service/static/css/main.cae203fe.css.map",
+    "main.a2cd391d.js.map": "/Online-web-Service/static/js/main.a2cd391d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cae203fe.css",
+    "static/js/main.a2cd391d.js"
+  ]
+}
